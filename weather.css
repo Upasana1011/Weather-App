@@ -1,0 +1,59 @@
+#whole{
+    /* background-color: aqua; */
+    height: 1100px;
+    margin-top: 0px;
+    background-image: url("https://thumbs.dreamstime.com/b/soft-cloud-sky-pastel-gradient-color-soft-cloud-sky-pastel-gradient-color-background-backdrop-123114451.jpg");
+}
+.box {
+   display: grid;
+   grid-template-columns: 25% 70%;
+   grid-gap: 2%;
+   /* border: 1px solid red; */
+   padding: 20px;
+
+}
+
+.box>div {
+   /* border:1px solid blue; */
+   width: 100%;
+   /* height:500px;  */
+   text-align: center;
+}
+
+#disp {
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   background-color: rgb(192, 148, 243);
+}
+
+input {
+   margin-left: 30%;
+   margin-top: 10px;
+   height: 30px;
+   width: 25%;
+   padding-left:2%;
+   font-size: large;
+   font-weight: 700;
+}
+
+button {
+   height: 35px;
+   background-color: rgba(29, 23, 107, 0.849);
+   color: rgb(252, 247, 247);
+   font-size:large;
+   font-weight: 700;
+}
+
+#box2 {
+   height: 200px;
+   display: flex;
+   /* border: 3px solid rgb(94, 150, 223); */
+   gap: 1%;
+   flex-wrap: wrap;
+   margin-left: 10%;
+}
+
+#box2>div {
+   width: 12%;
+   border-radius: 10px;
+   text-align: center;
+}
