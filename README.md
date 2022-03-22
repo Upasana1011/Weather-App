@@ -1,5 +1,5 @@
 # Weather-App 💙
-Weather App is a online video sharing and social media platform. Users can enjoy the video and music , and also upload original content and share it with friends, family and the world.
+Weather App is a website where user can get to know about the weather  and map of any place which they want. In addition to that also user can get next seven days weather forecast of that place.
 
 # Technologies Used ⚙
 * HTML
